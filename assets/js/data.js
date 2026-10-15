@@ -49,7 +49,7 @@ const DEFAULT_DATA = {
 
     // Social links: leave empty to hide. Shown in the hero and under "Social Media".
     linkedin: "https://www.linkedin.com/in/mohdsaud1",
-    github: "https://github.com/Iamsaudkhan",
+    github: "https://github.com/MOHDSAUD888",
     x: "",
     instagram: "https://www.instagram.com/i__amsaudkhan/",
     facebook: "",
